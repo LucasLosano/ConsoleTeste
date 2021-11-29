@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Losano will go on!");
+            System.Console.WriteLine("Gabriel Marcos will go on!");
         }
     }
 }
